@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khoitran3172/nodejs.git"
+  },
+  "keywords": [
+    "nodejsLearn"
+  ],
+  "author": "TranKhoi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khoitran3172/nodejs/issues"
+  },
+  "homepage": "https://github.com/khoitran3172/nodejs#readme",
+  "dependencies": {
+    "express": "^4.21.0",
+    "nodemon": "^3.1.4"
+  }
+}
